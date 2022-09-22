@@ -46,7 +46,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- 
+- Illustrations from [unDraw](https://undraw.co/)
 
 ## 📝 License
 
